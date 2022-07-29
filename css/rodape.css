@@ -1,5 +1,6 @@
 .rodape {
-    padding: 2em 5%;
+    padding-top: 2em;
+    padding-bottom: 2em;
     text-align: center;
     font-size: 0.7rem;
 }
@@ -114,5 +115,5 @@ rodape__infos-empresa {
     .rodape__secao+.rodape__secao {
         margin-left: 2em;
     }
-    
+
 }
